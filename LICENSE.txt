@@ -1,0 +1,13 @@
+Copyright (c) 2026 AssertGEN Global E-Commerce Network
+All rights reserved.
+
+This software is provided free of charge for commercial and non-commercial use.
+Redistribution in binary form is permitted without modification.
+
+The following restrictions apply:
+- Source code may NOT be modified, reverse-engineered, or decompiled.
+- Redistribution of source code is strictly prohibited.
+- The software may NOT be rebranded or relabeled.
+- All rights, title, and interest remain exclusively with AssertGEN Global E-Commerce Network
+
+Contact: assertgen.net | wa.me/49179578724
